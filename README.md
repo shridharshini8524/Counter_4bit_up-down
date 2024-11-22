@@ -4,7 +4,7 @@ Aim:
   To write a verilog code for 4bit up/down counter and verify the functionality using Test bench.
 
 
-Tools used for ASIC Flow:
+Tools used for ASIC Flow: s
 
   nclaunch- Used for Functional Simulation
 
